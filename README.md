@@ -4,7 +4,7 @@
 
 ### Tianyu is an encouraging teacher. He rewards his elementary school kids points for performing well. He decides to use kid's mini shop to lists gifts for the kids to buy with their points.
 
-![Demo1](demo/demozz.gif)
+![Demo1](demo/demo1.gif)
 
 
 ### Tianyu logs into his teacher-account. He finds out the default "points" icon is a star. He changes the icon to a chicken leg because his students love it.
