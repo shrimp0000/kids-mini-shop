@@ -17,21 +17,17 @@
 
 ## -- Student Buying Items --
 
-### Harry is teacher Tianyu's student. He logs into his student-account. He finds out he has 20 eggs and opens the store.
+### Harry is teacher Tianyu's student. He logs into his student-account. He finds out he has 20 eggs and opens the store. He buys the item, and moves to his cart and checkout the item. Now the item is on delivery!
 ![Demo4](demo/demo4.gif)
 
 
-### Harry buys item1. He then moves to his cart and checkout the item. Now the item is on delivery! Teacher Tianyu will see and give the item to him.
-![Demo5](demo/demo5.gif)
-
-
 ### Dinner is also teacher Tianyu's student. He buys item2 and follows the same procedure as Harry. Wyatt is not teacher Tianyu's student. Oops! It seems that his teacher hasn't given him any eggs or added any items to the store yet.
-![Demo6](demo/demo6.gif)
+![Demo5](demo/demo5.gif)
 
 ## -- Confirm the Purchase --
 
 ### Tianyu checks the orders. He already gives the item to Harry, so he confirms the delivery. Now Harry won't be able to see his order because it is delivered. Dinner still sees and waits for his item to arrive.
-![Demo7](demo/demo7.gif)
+![Demo6](demo/demo6.gif)
 
 
 
