@@ -21,7 +21,7 @@
 ![Demo4](demo/demo4.gif)
 
 
-### Dinner is also teacher Tianyu's student. He buys the item and follows the same procedure as Harry. Wyatt is not teacher Tianyu's student. Oops! It seems that his teacher hasn't given him any eggs or added any items to the store yet.
+### Dinner is also teacher Tianyu's student. He buys the item and follows the same procedure as Harry. Wyatt is not teacher Tianyu's student. Oops! It seems that his teacher hasn't given him any points or added any items to the store yet.
 ![Demo5](demo/demo5.gif)
 
 ## -- Confirm the Purchase --
