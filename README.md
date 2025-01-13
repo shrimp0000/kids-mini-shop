@@ -1,7 +1,3 @@
-# Registeration Notice
-
-Please contact sebastiandu2000@gmail.com to register your account. You can send usernames (at least 6 characters) and passwords (at least 8 characters) via email. Please label which account is for the teacher/parent and which accounts are for the students/kids.
-
 # Demo
 
 ## -- Teacher Managing Shop --
