@@ -1,3 +1,7 @@
+# Download
+
+### https://apps.apple.com/us/app/kids-mini-shop/id6739957470
+
 # Demo
 
 ## -- Teacher Managing Shop --
