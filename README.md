@@ -1,6 +1,6 @@
 # Download
 
-### https://apps.apple.com/us/app/kids-mini-shop/id6739957470
+### [Kids Mini Shop on the App Store](https://apps.apple.com/us/app/kids-mini-shop/id6739957470)
 
 # Demo
 
