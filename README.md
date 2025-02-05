@@ -8,7 +8,7 @@
 ### *Teacher* - *Account*: Tianyu-Teacher *Password*: shan123456
 ### *Student* - *Account*: Harry-Student  *Password*: shan123456
 
-### If you are interested in using this app, please contact me via email.
+### If you are interested in using this app, please contact me via email (linastianbao@gmail.com).
 
 # Demo
 
