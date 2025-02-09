@@ -2,6 +2,12 @@
 
 ### [Kids Mini Shop on the App Store](https://apps.apple.com/us/app/kids-mini-shop/id6739957470)
 
+# Important Notice:
+
+### This app is only for certain after-schools for now. To try this app out as a guest, using the accounts below (or contact me via email (linastianbao@gmail.com) if you are interested in using it for your kids):
+*Teacher* - *Account*: Tianyu-Teacher *Password*: shan123456
+*Student* - *Account*: Harry-Student  *Password*: shan123456
+
 # Demo
 
 ## -- Teacher Managing Shop --
