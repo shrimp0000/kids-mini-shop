@@ -6,6 +6,7 @@
 
 ### This app is only for certain after-schools for now. To try this app out as a guest, using the accounts below (or contact me via email (linastianbao@gmail.com) if you are interested in using it for your kids):
 *Teacher* - *Account*: Tianyu-Teacher *Password*: shan123456
+
 *Student* - *Account*: Harry-Student  *Password*: shan123456
 
 # Demo
